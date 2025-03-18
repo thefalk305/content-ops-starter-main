@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -81,7 +83,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://jerry-nuxt-dojo.netlify.app/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
